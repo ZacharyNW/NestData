@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestData.Api", "NestData.Api\NestData.Api.csproj", "{0A0D5DAC-3E29-434B-ADD8-B5198F5B0B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestData.Core", "NestData.Core\NestData.Core.csproj", "{71E79D77-5766-411E-909C-472C79A602C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0D5DAC-3E29-434B-ADD8-B5198F5B0B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0D5DAC-3E29-434B-ADD8-B5198F5B0B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0D5DAC-3E29-434B-ADD8-B5198F5B0B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0D5DAC-3E29-434B-ADD8-B5198F5B0B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E79D77-5766-411E-909C-472C79A602C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E79D77-5766-411E-909C-472C79A602C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E79D77-5766-411E-909C-472C79A602C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E79D77-5766-411E-909C-472C79A602C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
